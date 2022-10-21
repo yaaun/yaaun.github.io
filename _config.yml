@@ -2,7 +2,7 @@
 name: yaaun # Musi być, bo inaczej pojawia się zdwojony tytuł.
 title: null # "yaaun’s github page"
 theme: minima
-titles_from_heading:
+titles_from_headings:
   enabled: true
   strip_title: true
   collections: true
