@@ -1,2 +1,11 @@
-layout: page
-title: "yaaun’s github page"
+#layout: page
+title: null # "yaaun’s github page"
+theme: minima
+titles_from_heading:
+  enabled: true
+  strip_title: true
+  collections: true
+
+header_pages:
+  - index.md
+  - subpage.md
